@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yih:home|Door43 (yih)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yih|d43-yih repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yih/archive/master.zip|d43-yih.zip]]
+
+**Recent Changes**
+{{changes>ns = yih}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yih|Ethnologue data]]
+
